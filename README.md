@@ -41,7 +41,7 @@ Currently building products around AI-driven automation, model orchestration and
     </picture>
   </a>
 
-  <a href="https://www.x.com/clifford_sec" target="_blank" rel="noreferrer">
+  <a href="https://www.x.com/arpit_kohale" target="_blank" rel="noreferrer">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
