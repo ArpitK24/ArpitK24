@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="212" viewBox="0 0 480 212">
+<rect x=".5" y=".5" width="479" height="211" rx="12" fill="#0f0f10" stroke="#262626"/>
+<text x="26" y="44" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="-0.4" fill="#ededed">OwnKey</text>
+<text x="454" y="44" text-anchor="end" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11" fill="#8f8f8f">TypeScript · ★ 4 · npm</text>
+<text x="26" y="72" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#8f8f8f">Local-first code analysis from the terminal.</text>
+<line x1="26" y1="92" x2="454" y2="92" stroke="#262626"/>
+<text x="26" y="120" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#f5a524">→</text><text x="46" y="120" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#ededed">Gemini, OpenAI, Claude or Ollama</text>
+<text x="26" y="148" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#f5a524">→</text><text x="46" y="148" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#ededed">fully offline mode, no database required</text>
+<text x="26" y="176" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#f5a524">→</text><text x="46" y="176" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#ededed">every applied fix backed up and undoable</text>
+</svg>
