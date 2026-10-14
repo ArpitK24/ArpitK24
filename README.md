@@ -40,4 +40,4 @@ I build AI-powered developer tools and full-stack products, mostly in **Go, Pyth
 
 ## 📫 Find me
 
-[Portfolio](https://portfolio-three-sand-69.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/arpit-kohale-9176932a8/) · [X](https://www.x.com/arpit_kohale) · [Email](mailto:arpitkohale2@gmail.com)
+[Portfolio](https://arpitk.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/arpit-kohale-9176932a8/) · [X](https://www.x.com/arpit_kohale) · [Email](mailto:arpitkohale2@gmail.com)
